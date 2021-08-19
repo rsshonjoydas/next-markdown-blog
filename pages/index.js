@@ -2,6 +2,7 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import Head from 'next/head';
 import path from 'path';
+import Post from '../components/Post';
 
 export default function Home({ posts }) {
   return (
@@ -12,7 +13,7 @@ export default function Home({ posts }) {
 
       <div className="posts">
         {posts.map((post, index) => (
-          <h3>{post.frontmatter.title}</h3>
+          <Post post={post} />
         ))}
       </div>
     </div>
