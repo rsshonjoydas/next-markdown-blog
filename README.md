@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center">Node Authentication
+  <h3 align="center">Next Markdown Blog
   <div align="center"><h3>Project Link: <a href="https://github.com/rsshonjoydas/next-markdown-blog">GitHub</a>, <a href="https://codesandbox.io/s/github/rsshonjoydas/next-markdown-blog/tree/main">CodeSandbox</a> or <a href="https://next-markdown-blog-henna.vercel.app/">Live Page</a></h3></div>
 
 
